@@ -1,0 +1,342 @@
+{
+  "main": {
+    "id": "d06580e7a8855288",
+    "type": "split",
+    "children": [
+      {
+        "id": "05be4b687258b8f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdafe955f69cb5c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电赛/暑期培训/DDS/DDS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DDS"
+            }
+          },
+          {
+            "id": "6df3b22734a47290",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "电赛/暑期培训/DDS/AD9851.md"
+              },
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "a863471019c383f6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "attachments/Pasted Image 20250630135436_444.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted Image 20250630135436_444"
+            }
+          },
+          {
+            "id": "eca8093430484ab1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "电子电路设计实验/信号发生器/Excalidraw/调幅方案.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "调幅方案"
+            }
+          },
+          {
+            "id": "433ccbf79615b41d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "85d7173fb94e571c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电赛/仿真练习题/仿真练习题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "仿真练习题"
+            }
+          },
+          {
+            "id": "9b89b13f9d2b11c4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "电子电路设计实验/信号发生器/Excalidraw/电路原理图.md"
+              },
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "1ee9f4c7c47de4b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电子电路设计实验/信号发生器/实验 2C.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "实验 2C"
+            }
+          },
+          {
+            "id": "6e1c104794f4ecc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电赛/暑期培训/DSP算法/FFT测单一谱线信号的精确幅度和频率.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FFT测单一谱线信号的精确幅度和频率"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08d4cd38295d1e8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "775801c2a2456534",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "576b03c14b1dafdc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "0e919a32cc3f52b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7fe56fdc71081ab6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "366a02badddd11d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "96a74644f3accab2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d9cdac40063aea6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/电压缓冲器.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "电压缓冲器 的反向链接列表"
+            }
+          },
+          {
+            "id": "53d1d3ae48fb7743",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/电压缓冲器.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "电压缓冲器 的出链列表"
+            }
+          },
+          {
+            "id": "1f252a09e5b9412d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "41a4ab66de86b3eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "电赛/暑期培训/DSP算法/FFT测单一谱线信号的精确幅度和频率.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "FFT测单一谱线信号的精确幅度和频率 的大纲"
+            }
+          },
+          {
+            "id": "84d8873370c8f933",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "random-note:开始漫游笔记": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "6e1c104794f4ecc3",
+  "lastOpenFiles": [
+    "电子电路设计实验/信号发生器/Excalidraw/调幅方案.md",
+    "电赛/暑期培训/DSP算法/FFT测单一谱线信号的精确幅度和频率.md",
+    "attachments/Pasted image 20250701102052.png",
+    "attachments/Pasted image 20250701102033.png",
+    "电赛/暑期培训/stm32.md",
+    "电赛/暑期培训/2020E.md",
+    "电赛/暑期培训/DDS/AD9851.md",
+    "电赛/暑期培训/DDS/DDS模块.md",
+    "电赛/单片机练习题.md",
+    "电赛/电赛选题：.md",
+    "电赛/暑期培训/DDS/小信号.md",
+    "attachments/Pasted Image 20250630170140_875.png",
+    "attachments/Pasted Image 20250630164903_475.png",
+    "attachments/Pasted image 20250630154742.png",
+    "attachments/Pasted image 20250630154639.png",
+    "attachments/Pasted image 20250630154605.png",
+    "attachments/Pasted image 20250630154532.png",
+    "attachments/Pasted image 20250630154452.png",
+    "电子电路设计实验/信号发生器/实验 2C.md",
+    "attachments/Pasted Image 20250630135436_444.png",
+    "电赛/暑期培训/DDS",
+    "电赛/暑期培训/CubeMx(HAL库)/驱动显示屏.md",
+    "电赛/暑期培训/DSP算法",
+    "电赛/暑期培训/未命名.md",
+    "电赛/暑期培训/CubeMx(HAL库)/未命名",
+    "电赛/暑期培训/CubeMx(HAL库)/文件架构.md",
+    "电赛/暑期培训/关于三极管/三极管静态工作点的选取.md",
+    "电赛/暑期培训/关于三极管",
+    "电赛/暑期培训/CubeMx(HAL库)",
+    "电子电路设计实验/信号发生器/Excalidraw/总框架.md",
+    "电赛/暑期培训",
+    "电子电路设计实验/信号发生器/定时器时基单元设置.md",
+    "电子电路设计实验/信号发生器/Excalidraw/电路原理图.md",
+    "电子电路设计实验/信号发生器/Excalidraw/R2R.md",
+    "电赛/仿真练习题/仿真练习题.md",
+    "电子电路设计实验/信号发生器/Excalidraw/电压缓冲器.md",
+    "电子电路设计实验/信号发生器/Excalidraw/滤波.md",
+    "Excalidraw/滤波器.md",
+    "电赛/仿真练习题/仿真练习题(图).md",
+    "电赛/仿真练习题",
+    "电子电路设计实验/信号发生器/Excalidraw/定时器.md",
+    "new/滤波器.md",
+    "Excalidraw",
+    "new",
+    "attachments",
+    "Excalidraw/未命名.canvas"
+  ]
+}
