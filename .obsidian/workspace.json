@@ -148,9 +148,23 @@
               "icon": "lucide-file",
               "title": "ADC"
             }
+          },
+          {
+            "id": "c8dcc87484e3144d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电赛/暑期培训/C language/HAL 库特殊语法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HAL 库特殊语法"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -271,13 +285,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电赛/暑期培训/2019/ADC.md",
+                "file": "电赛/暑期培训/C language/HAL 库特殊语法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ADC 的大纲"
+              "title": "HAL 库特殊语法 的大纲"
             }
           },
           {
@@ -329,10 +343,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95f446a720404104",
+  "active": "c8dcc87484e3144d",
   "lastOpenFiles": [
-    "电赛/暑期培训/2019/软件流程图.md",
+    "电赛/暑期培训/2019/stm32.md",
     "电赛/暑期培训/2019/ADC.md",
+    "电赛/暑期培训/2019/软件流程图.md",
     "电赛/暑期培训/关于三极管/三极管静态工作点的选取.md",
     "电赛/暑期培训/2020/2020E.md",
     "电赛/暑期培训/C language/标准语言显示.md",
@@ -376,7 +391,6 @@
     "电赛/暑期培训/关于三极管",
     "电赛/暑期培训/CubeMx(HAL库)",
     "电子电路设计实验/信号发生器/Excalidraw/总框架.md",
-    "电子电路设计实验/信号发生器/定时器时基单元设置.md",
     "Excalidraw/未命名.canvas"
   ]
 }
