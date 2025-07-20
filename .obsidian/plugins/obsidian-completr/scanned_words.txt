@@ -79,6 +79,7 @@ ez
 eVb
 ej
 eE
+eaba
 plugin
 parsed
 palette
@@ -268,6 +269,7 @@ SXV
 Sbwu
 SE
 SwLWh
+Signal
 EXCALIDRAW
 Excalidraw
 Elements
@@ -450,6 +452,7 @@ iul
 iU
 iRK
 interp
+int
 MORE
 MgJOI
 MiEftYF
@@ -518,6 +521,8 @@ MZ
 MLT
 MicroLIB
 MKQ
+Measured
+MCU
 OPTIONS
 Os
 Output
@@ -621,6 +626,8 @@ mG
 mc
 mtux
 mSu
+math
+mixed
 of
 offset
 ozASNR
@@ -752,6 +759,8 @@ decimate
 daAxxq
 dcvVk
 deg
+dfd
+double
 You
 YO
 Yj
@@ -881,6 +890,8 @@ cHsaE
 cdff
 cz
 cJ
+cfd
+cfft
 Drawing
 Decompress
 Data
@@ -943,6 +954,7 @@ DZy
 DQV
 Driver
 DISABLE
+DSP
 with
 wmZsd
 wGIbDSCl
@@ -1078,6 +1090,7 @@ fm
 fxs
 fT
 fkfqLwmq
+fir
 For
 FHLh
 Files
@@ -1147,6 +1160,8 @@ FrOupvfA
 Fs
 FreqResponse
 FPGA
+FIR
+FPU
 settings
 scale
 so
@@ -1203,6 +1218,7 @@ sy
 sTKAcAaM
 sM
 sig
+short
 under
 uLJaxFc
 up
@@ -1386,6 +1402,8 @@ CSR
 Cyfp
 CIRCULAR
 CUnn
+CMSIS
+Cortex
 zhnFHZDT
 zn
 zXlhfzo
@@ -1653,6 +1671,9 @@ aF
 aMk
 adjust
 ax
+adfb
+aef
+arm
 PP
 Pib
 PAjm
@@ -1765,6 +1786,7 @@ Lx
 LxC
 LdnmL
 LwR
+Lib
 xh
 xUECO
 xUq
@@ -1914,6 +1936,7 @@ IP
 Iu
 Iw
 IDATj
+IIR
 AOlw
 AUdipvyC
 AzooVOiZ
@@ -1965,6 +1988,7 @@ AY
 Ax
 Ae
 Ao
+API
 Xmd
 XZy
 XJ
@@ -2484,6 +2508,7 @@ RJNN
 RY
 RE
 RegularChannelConfig
+Radix
 Key
 KH
 KB
@@ -2771,6 +2796,8 @@ rCJ
 rE
 rD
 rar
+rfft
+radix
 WFPfxWVD
 WheL
 WH
