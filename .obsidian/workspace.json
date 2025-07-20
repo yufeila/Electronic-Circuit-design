@@ -8,29 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cdafe955f69cb5c1",
+            "id": "6df3b22734a47290",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电赛/暑期培训/DDS/DDS.md",
+                "file": "电赛/暑期培训/2023E/关于采样频率和波形检测.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DDS"
+              "title": "关于采样频率和波形检测"
             }
           },
           {
-            "id": "6df3b22734a47290",
+            "id": "ccc1ee5d639bcccd",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "电赛/暑期培训/DDS/AD9851.md"
+                "file": "电赛/暑期培训/2023E/原理图和代码流程图.md"
               },
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "excalidraw-icon",
+              "title": "原理图和代码流程图"
             }
           },
           {
@@ -85,12 +85,12 @@
             "id": "9b89b13f9d2b11c4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "电赛/暑期培训/2023E/原理图和代码流程图.md"
+                "file": "电子电路设计实验/信号发生器/Excalidraw/电路原理图.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "原理图和代码流程图"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -113,40 +113,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电赛/暑期培训/数模转换/ADC and DAC.md",
+                "file": "电赛/暑期培训/DSP算法/FFT测单一谱线信号的精确幅度和频率.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ADC and DAC"
+              "title": "FFT测单一谱线信号的精确幅度和频率"
             }
           },
           {
-            "id": "ac5d8196c85d7887",
+            "id": "361b7a122e3296fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "电赛/暑期培训/2019/ADC.md",
-                "mode": "source",
-                "source": false
+                "file": "电赛/暑期培训/2019/软件流程图.md"
               },
-              "icon": "lucide-file",
-              "title": "ADC"
-            }
-          },
-          {
-            "id": "95f446a720404104",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "电赛/暑期培训/2019/ADC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ADC"
+              "icon": "excalidraw-icon",
+              "title": "软件流程图"
             }
           },
           {
@@ -165,6 +149,7 @@
           }
         ],
         "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -285,13 +270,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电赛/暑期培训/2023E/原理图和代码流程图.md",
+                "file": "电赛/暑期培训/2023E/数字电位器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "原理图和代码流程图 的大纲"
+              "title": "数字电位器 的大纲"
             }
           },
           {
@@ -309,13 +294,23 @@
             }
           },
           {
-            "id": "cb59a50fd8dafc95",
+            "id": "96745163f6e98a7d",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "a81b0d0d48756691",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -327,6 +322,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -340,49 +336,48 @@
       "zk-prefixer:创建时间戳笔记": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "9b89b13f9d2b11c4",
+  "active": "6df3b22734a47290",
   "lastOpenFiles": [
-    "电赛/暑期培训/2023E/关于采样频率和波形检测.md",
     "电赛/暑期培训/2023E/数字电位器.md",
+    "电赛/暑期培训/2023E/关于采样频率和波形检测.md",
     "电赛/暑期培训/2023E/信号处理.md",
-    "attachments/Pasted image 20250716145552.png",
-    "attachments/Pasted image 20250716145529.png",
     "电赛/暑期培训/2023E/原理图和代码流程图.md",
-    "电子电路设计实验/信号发生器/Excalidraw/电路原理图.md",
-    "电赛/暑期培训/数模转换/ADC and DAC.md",
-    "电赛/暑期培训/单片机/STM32F407.md",
-    "电赛/暑期培训/2019/ADC.md",
-    "attachments/3d893717f8b680e50e39a369fc60e7e.png",
-    "attachments/43d4f99c8679f48abd84765b33374cd.png",
-    "电赛/暑期培训/2020/2020E.md",
-    "电赛/暑期培训/C language/HAL 库特殊语法.md",
-    "conflict-files-obsidian-git.md",
-    "电赛/暑期培训/蓝牙模块/蓝牙模块.md",
-    "电赛/暑期培训/蓝牙模块",
-    "电赛/暑期培训/单片机",
-    "电赛/暑期培训/DSP算法/抑制频谱泄露的方法.md",
-    "电赛/暑期培训/DSP算法/Goertzel 算法.md",
-    "电赛/暑期培训/DDS/常用的DDS模块.md",
-    "电赛/暑期培训/DDS/AD9833.md",
-    "电赛/暑期培训/CubeMx(HAL库)/调试笔记.md",
-    "电赛/暑期培训/CubeMx(HAL库)/USART.md",
-    "电赛/暑期培训/2023E",
-    "new/2025-07-09.md",
-    "attachments/e3ac076e55ebe60f48954e7f5f0c307a.PNG",
     "attachments/Pasted image 20250715103529.png",
     "attachments/Pasted image 20250715103506.png",
-    "attachments/Pasted image 20250711143736.png",
-    "attachments/Pasted image 20250711141057.png",
-    "attachments/Pasted Image 20250711135948_440.png",
-    "电赛/暑期培训/2019/stm32.md",
+    "电赛/暑期培训/单片机/STM32F407.md",
+    "电赛/暑期培训/2019/ADC.md",
+    "电赛/暑期培训/单片机",
     "电赛/暑期培训/2019/软件流程图.md",
     "电赛/暑期培训/关于三极管/三极管静态工作点的选取.md",
     "电赛/暑期培训/C language/标准语言显示.md",
     "电赛/暑期培训/CubeMx(HAL库)/驱动显示屏.md",
     "电赛/暑期培训/CubeMx(HAL库)/电阻触摸屏的驱动.md",
+    "电赛/暑期培训/CubeMx(HAL库)/驱动显示屏.md",
+    "电赛/暑期培训/CubeMx(HAL库)/stm32.md",
+    "电赛/暑期培训/DDS/DDS模块.md",
+    "attachments/Pasted image 20250711143736.png",
+    "attachments/Pasted image 20250711141057.png",
+    "attachments/Pasted Image 20250711135948_440.png",
+    "attachments/Pasted Image 20250711135834_390.png",
+    "attachments/e3ac076e55ebe60f48954e7f5f0c307a.PNG",
+    "电赛/暑期培训/DSP算法/FFT测单一谱线信号的精确幅度和频率.md",
+    "电赛/暑期培训/DSP算法/未命名",
+    "电赛/暑期培训/蓝牙模块/蓝牙模块",
+    "电赛/暑期培训/蓝牙模块",
+    "attachments/Pasted Image 20250709134313_322.png",
+    "attachments/Pasted Image 20250709134209_008.png",
+    "attachments/Pasted Image 20250709134125_644.png",
+    "电赛/暑期培训/2023E",
+    "new/2025-07-09.md",
+    "电赛/暑期培训/关于三极管/三极管静态工作点的选取.md",
+    "电赛/暑期培训/数模转换/ADC+DMA半传输和全传输中断.md",
+    "电赛/暑期培训/数模转换",
+    "电赛/暑期培训/C language",
     "电赛/暑期培训/2020",
     "电赛/暑期培训/2019/未命名",
     "电赛/暑期培训/2019",
