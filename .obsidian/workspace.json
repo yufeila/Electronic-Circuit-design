@@ -36,6 +36,32 @@
             }
           },
           {
+            "id": "ef76b07217953893",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "电赛/暑期培训/院赛/Drawing 2025-07-21 07.56.25.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-21 07.56.25.excalidraw"
+            }
+          },
+          {
+            "id": "ee8d0e14f7f93fcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电赛/暑期培训/院赛/软件.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "软件"
+            }
+          },
+          {
             "id": "a863471019c383f6",
             "type": "leaf",
             "state": {
@@ -136,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -257,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电赛/暑期培训/DSP算法/CMSIS-DSP库.md",
+                "file": "电赛/暑期培训/院赛/软件.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CMSIS-DSP库 的大纲"
+              "title": "软件 的大纲"
             }
           },
           {
@@ -326,11 +352,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ccc1ee5d639bcccd",
+  "active": "96745163f6e98a7d",
   "lastOpenFiles": [
+    "电赛/暑期培训/院赛/锁相环.md",
+    "电赛/暑期培训/院赛/软件.md",
+    "电赛/暑期培训/院赛/Drawing 2025-07-21 07.56.25.excalidraw.md",
+    "电赛/暑期培训/院赛/方案.md",
+    "电赛/暑期培训/院赛/大彩屏.md",
+    "电赛/暑期培训/院赛/硬件.md",
+    "电赛/暑期培训/数模转换/ADC+DMA半传输和全传输中断.md",
+    "电赛/暑期培训/2019/stm32.md",
+    "attachments/Pasted Image 20250721091902_710.png",
+    "attachments/Pasted Image 20250721082148_803.png",
+    "attachments/Pasted Image 20250721080207_798.png",
+    "attachments/Pasted Image 20250721075653_206.png",
+    "电赛/暑期培训/DSP算法/CMSIS-DSP库.md",
+    "电赛/暑期培训/院赛",
     "电赛/暑期培训/DSP算法/Goertzel 算法.md",
     "电赛/暑期培训/2023E/问题记录.md",
-    "电赛/暑期培训/2019/stm32.md",
     "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20250717100037.png",
     "attachments/Pasted image 20250717095926.png",
@@ -338,19 +377,14 @@
     "attachments/Pasted image 20250717094249.png",
     "attachments/Pasted image 20250716212129.png",
     "attachments/Pasted image 20250716145552.png",
-    "attachments/Pasted image 20250716145529.png",
-    "attachments/43d4f99c8679f48abd84765b33374cd.png",
-    "attachments/3d893717f8b680e50e39a369fc60e7e.png",
     "电赛/暑期培训/DSP算法/FFT测单一谱线信号的精确幅度和频率.md",
     "电赛/暑期培训/DSP算法/CMSIS DSP静态库使用.md",
     "电赛/暑期培训/DSP算法/抑制频谱泄露的方法.md",
-    "电赛/暑期培训/DSP算法/CMSIS-DSP库.md",
     "电赛/暑期培训/单片机/STM32F407.md",
     "电赛/暑期培训/关于大彩屏/大彩屏与单片机.md",
     "电赛/暑期培训/2019/软件流程图.md",
     "电赛/暑期培训/关于大彩屏/未命名",
     "电赛/暑期培训/关于大彩屏",
-    "attachments/Pasted Image 20250720143853_777.png",
     "电赛/暑期培训/2023E/原理图和代码流程图.md",
     "电赛/暑期培训/2023E/关于调相.md",
     "电赛/暑期培训/2023E/关于采样频率和波形检测.md",
@@ -360,20 +394,12 @@
     "电赛/暑期培训/2019/ADC.md",
     "电赛/暑期培训/单片机",
     "电赛/暑期培训/DDS/AD9833.md",
-    "电赛/暑期培训/DDS/常用的DDS模块.md",
-    "电赛/暑期培训/DDS/AD9851.md",
-    "电赛/暑期培训/DDS/小信号.md",
-    "电赛/暑期培训/数模转换/ADC and DAC.md",
-    "电赛/暑期培训/CubeMx(HAL库)/调试笔记.md",
-    "电赛/暑期培训/CubeMx(HAL库)/USART.md",
-    "电赛/暑期培训/蓝牙模块/蓝牙模块.md",
     "电赛/暑期培训/DSP算法/未命名",
     "电赛/暑期培训/蓝牙模块/蓝牙模块",
     "电赛/暑期培训/蓝牙模块",
     "电赛/暑期培训/2023E",
     "电赛/暑期培训/数模转换",
     "电赛/暑期培训/C language",
-    "电赛/暑期培训/2020",
     "Excalidraw/未命名.canvas"
   ]
 }
